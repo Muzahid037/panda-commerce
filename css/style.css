@@ -1,0 +1,18 @@
+
+.bg-info-panda{
+    background-color: #fceae8;
+    
+}
+
+#Shoes,#Backpack,#Subscribe{
+    margin-top: 100px;
+}
+
+
+.btn-buy-now-panda{
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
